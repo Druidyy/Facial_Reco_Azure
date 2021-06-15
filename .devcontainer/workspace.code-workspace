@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "recostaticwebapp",
+			"path": "../recostaticwebapp"
+		},
+		{
+			"name": "facialereco",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
